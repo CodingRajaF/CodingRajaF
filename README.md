@@ -1,4 +1,15 @@
 ## Hi there 👋
+<p align="left">
+  <a href="https://github.com/CodingRajaF">
+    <img height="20" src="https://komarev.com/ghpvc/?username=CodingRajaF" />
+  </a>
+  <a href="https://github.com/CodingRajaF">
+    <img height="20" src="https://img.shields.io/github/followers/CodingRajaF?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://zenn.dev/taruroma">
+    <img height="20" src="https://badgen.org/img/zenn/taruroma/articles?style=plastic" />
+  </a>
+</p>
 
 <!--
 **CodingRajaF/CodingRajaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
