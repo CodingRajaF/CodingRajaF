@@ -38,8 +38,7 @@ What drives me is creating experiences woven through code — and in the long ru
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodingRajaF&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodingRajaF&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodingRajaF&theme=default&utcOffset=9)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodingRajaF&theme=default&exclude={exclude})
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodingRajaF&theme=default&exclude={exclude})
+
 
 <!--
 **CodingRajaF/CodingRajaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
