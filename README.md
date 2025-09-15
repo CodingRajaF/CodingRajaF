@@ -1,6 +1,15 @@
-## Hi there 👋 Welcome to My GitHub 🎉
+# 🎉 Welcome to My GitHub
+Thanks for stopping by! Here you’ll find a mix of experiments, automation tools, and a few adventures in coding.
 
-# Language
+✨ If any of my projects made your life easier (or just made you smile), consider leaving a ⭐.  It really keeps the motivation flowing!
+
+## 🚀 What you’ll find here
+- 🛠️ Automation tools (Excel, OCR, browser extensions…)
+- 📊 Data wrangling & analysis experiments
+- 🎮 Hobby projects (game-inspired, just for fun)
+> ⚡ Not many repos yet, but hey — Rome wasn’t built in a day. Come back later and you might find something new!
+
+# 📚 Language
 - VBA
 - Python
 - Google App Script
