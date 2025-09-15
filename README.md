@@ -9,6 +9,13 @@ Thanks for stopping by! Here you’ll find a mix of experiments, automation tool
 - 🎮 Hobby projects (game-inspired, just for fun)
 > ⚡ Not many repos yet, but hey — Rome wasn’t built in a day. Come back later and you might find something new!
 
+## 💡My Philosophy on Code
+
+I see code as a "language" that connects people and the future.  
+Inspired by the idea of a *mediator* from a certain story, I want to use code to bridge humans and what lies ahead.  
+
+What drives me is creating experiences woven through code — and in the long run, I aim to expand my work in the DX (Digital Transformation) field, building bridges that benefit society as a whole.  
+
 # 📚 Language
 - VBA
 - Python
