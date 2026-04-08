@@ -16,12 +16,7 @@ Inspired by the idea of a *mediator* from a certain story, I want to use code to
 
 What drives me is creating experiences woven through code — and in the long run, I aim to expand my work in the DX (Digital Transformation) field, building bridges that benefit society as a whole.  
 
-# 📚 Language
-- VBA
-- Python
-- Google App Script
-- Java Script
-
+# ⏩ My Progress
 
 <p align="left">
   <a href="https://github.com/CodingRajaF">
@@ -35,7 +30,9 @@ What drives me is creating experiences woven through code — and in the long ru
   </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodingRajaF&theme=default)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodingRajaF&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodingRajaF&theme=default&utcOffset=9)
 
@@ -54,3 +51,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
