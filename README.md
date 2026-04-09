@@ -17,13 +17,7 @@ Inspired by the idea of a *mediator* from a certain story, I want to use code to
 What drives me is creating experiences woven through code — and in the long run, I aim to expand my work in the DX (Digital Transformation) field, building bridges that benefit society as a whole.  
 
 # ⏩ My Progress
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-</picture>
-
+<!--バッジ-->
 <p align="left">
   <a href="https://github.com/CodingRajaF">
     <img height="20" src="https://komarev.com/ghpvc/?username=CodingRajaF" />
@@ -35,7 +29,6 @@ What drives me is creating experiences woven through code — and in the long ru
     <img height="20" src="https://badgen.org/img/zenn/taruroma/articles?style=plastic" />
   </a>
 </p>
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -48,6 +41,14 @@ TypeScript   3 mins                ███░░░░░░░░░░░░
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodingRajaF&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodingRajaF&theme=default&utcOffset=9)
+
+<!--ヘビ-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+</picture>
+
 
 
 <!--
