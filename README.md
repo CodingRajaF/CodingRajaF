@@ -31,6 +31,13 @@ What drives me is creating experiences woven through code — and in the long ru
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown     23 mins               ██████████████████▒░░░░░░   72.71 %
+Other        4 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
+TypeScript   3 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
+```
+
 <!--END_SECTION:waka-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodingRajaF&theme=default)
