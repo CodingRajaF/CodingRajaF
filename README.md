@@ -32,6 +32,10 @@ What drives me is creating experiences woven through code — and in the long ru
 <!--START_SECTION:waka-->
 
 ```txt
+From: 02 April 2026 - To: 09 April 2026
+
+Total Time: 27 mins
+
 Markdown     23 mins               ██████████████████▒░░░░░░   72.71 %
 Other        4 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
 TypeScript   3 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
