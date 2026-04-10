@@ -1,15 +1,5 @@
 # 🎉 Welcome to My GitHub
-Thanks for stopping by! Here you’ll find a mix of experiments, automation tools, and a few adventures in coding.
 
-✨ If any of my projects made your life easier (or just made you smile), consider leaving a ⭐.  It really keeps the motivation flowing!
-
-## 🚀 What you’ll find here
-- 🛠️ Automation tools (Excel, OCR, browser extensions…)
-- 📊 Data wrangling & analysis experiments
-- 🎮 Hobby projects (game-inspired, just for fun)
-> ⚡ Not many repos yet, but hey — Rome wasn’t built in a day. Come back later and you might find something new!
-
-# ⏩ My Progress
 <!--バッジ-->
 <p align="left">
   <a href="https://github.com/CodingRajaF">
@@ -22,6 +12,25 @@ Thanks for stopping by! Here you’ll find a mix of experiments, automation tool
     <img height="20" src="https://badgen.org/img/zenn/taruroma/articles?style=plastic" />
   </a>
 </p>
+
+Thanks for stopping by! Here you’ll find a mix of experiments, automation tools, and a few adventures in coding.
+
+✨ If any of my projects made your life easier (or just made you smile), consider leaving a ⭐.  It really keeps the motivation flowing!
+
+## 🚀 What you’ll find here
+- 🛠️ Automation tools (Excel, OCR, browser extensions…)
+- 📊 Data wrangling & analysis experiments
+- 🎮 Hobby projects (game-inspired, just for fun)
+> ⚡ Not many repos yet, but hey — Rome wasn’t built in a day. Come back later and you might find something new!
+---
+
+<!--ヘビ-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodingRajaF/CodingRajaF/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodingRajaF/CodingRajaF/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodingRajaF/CodingRajaF/output/snake.svg">
+</picture>
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -36,15 +45,13 @@ TypeScript   3 mins                ███░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+
+
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodingRajaF&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodingRajaF&theme=default&utcOffset=9)
+-->
 
-<!--ヘビ-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodingRajaF/CodingRajaF/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodingRajaF/CodingRajaF/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodingRajaF/CodingRajaF/output/snake.svg">
-</picture>
 
 
 
