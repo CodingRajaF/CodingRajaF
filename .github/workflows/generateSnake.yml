@@ -1,29 +1,35 @@
-name: GenerateSnake
+name: generate animation
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "27 0 * * *"
+  workflow_dispatch:
 
 jobs:
-  update-repository:
-    name: Update this repo's README with repository_owner
-    runs-on: ubuntu-latest
+  generate_grid_snake:
     permissions:
       contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
+    # 1 自分のリポジトリのファイルを修正できるようにする
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        id: snake-gif
+        uses: actions/checkout@v4
+    # 2 スネーク画像を生成する
+      - name: generate_grid_snake
+        uses: Platane/snk/svg-only@v3.4.1
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            ./img/snake.svg
-            ./img/snake-dark.svg?palette=github-dark
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@main
+            ./snake_img/snake.svg
+            ./snake_img/snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # 3 生成されたファイルをリポジトリに保存する
+      - name: Push snake.svg to the repository
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-	  # ブランチ名はデフォルトブランチ名にする(main or master)
-          branch: main  
-          message: ':rocket: Update'
+          target_branch: output # 保存先のブランチ
+          build_dir: snake_img # 保存したいファイルが入っているフォルダ
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
