@@ -2,9 +2,11 @@
 
 <!--バッジ-->
 <p align="left">
+  <!--
   <a href="https://github.com/RyoK73">
     <img height="20" src="https://komarev.com/ghpvc/?username=RyoK73" />
   </a>
+  -->
   <a href="https://github.com/RyoK73">
     <img height="20" src="https://img.shields.io/github/followers/RyoK73?label=follow&logo=github&style=flat" />
   </a>
