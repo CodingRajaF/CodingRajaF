@@ -2,11 +2,11 @@
 
 <!--バッジ-->
 <p align="left">
-  <a href="https://github.com/CodingRajaF">
-    <img height="20" src="https://komarev.com/ghpvc/?username=CodingRajaF" />
+  <a href="https://github.com/RyoK73">
+    <img height="20" src="https://komarev.com/ghpvc/?username=RyoK73" />
   </a>
-  <a href="https://github.com/CodingRajaF">
-    <img height="20" src="https://img.shields.io/github/followers/CodingRajaF?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/RyoK73">
+    <img height="20" src="https://img.shields.io/github/followers/RyoK73?label=follow&logo=github&style=flat" />
   </a>
   <a href="https://zenn.dev/taruroma">
     <img height="20" src="https://badgen.org/img/zenn/taruroma/articles?style=plastic" />
@@ -26,9 +26,9 @@ Thanks for stopping by! Here you’ll find a mix of experiments, automation tool
 
 <!--ヘビ-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodingRajaF/CodingRajaF/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodingRajaF/CodingRajaF/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodingRajaF/CodingRajaF/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyoK73/RyoK73/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyoK73/RyoK73/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RyoK73/RyoK73/output/snake.svg">
 </picture>
 
 <!--START_SECTION:waka-->
@@ -48,15 +48,15 @@ TypeScript   3 mins                ███░░░░░░░░░░░░
 
 
 <!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodingRajaF&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodingRajaF&theme=default&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RyoK73&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RyoK73&theme=default&utcOffset=9)
 -->
 
 
 
 
 <!--
-**CodingRajaF/CodingRajaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RyoK73/RyoK73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
