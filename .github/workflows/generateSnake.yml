@@ -1,4 +1,4 @@
-name: generate animation
+name: Update Snake Animation in README
 on:
   schedule:
     - cron: "27 0 * * *"
