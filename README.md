@@ -33,22 +33,6 @@ Thanks for stopping by! Here you’ll find a mix of experiments, automation tool
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RyoK73/RyoK73/output/snake.svg">
 </picture>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 08 May 2026 - To: 15 May 2026
-
-Total Time: 12 hrs 1 min
-
-TypeScript   3 hrs 50 mins         ███████░░░░░░░░░░░░░░░░░░   28.59 %
-Markdown     3 hrs 33 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
-CSS          1 hr 50 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
-Other        1 hr 24 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-JSON         1 hr 13 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-```
-
-<!--END_SECTION:waka-->
-
 
 
 <!--
